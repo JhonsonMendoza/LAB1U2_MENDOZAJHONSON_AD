@@ -129,6 +129,9 @@ Además, el enfoque modular adoptado en la organización del código mejora la m
 
 El uso de Postman como herramienta de pruebas permitió verificar el correcto funcionamiento de todos los endpoints, y su combinación con Mongo Express facilitó la observación de los efectos inmediatos de cada operación en la base de datos. La práctica también permitió al estudiante adquirir una comprensión más clara sobre cómo se comunican los distintos componentes del backend, sentando las bases para proyectos más complejos que integren autenticación, relaciones entre colecciones y despliegue en la nube.
 
+## LINK DEL REPOSITORIO: 
+Enlace a repositorio remoto github: https://github.com/JhonsonMendoza/LAB1U2_MENDOZAJHONSON_AD.git
+
 ---
 
 ## CONCLUSIONES
